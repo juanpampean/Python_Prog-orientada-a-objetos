@@ -5,4 +5,6 @@ Aqui se sumaran todos los apuntes, videos que sirvan como ejemplo para aprender 
 Update README.md
 https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/9478320#questions
 
+Muy buena explicación de POO: https://www.youtube.com/watch?v=DlphYPc_HKk
+
 
